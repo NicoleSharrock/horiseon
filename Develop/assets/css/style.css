@@ -4,10 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,6 +35,10 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+body {
+    background-color: #d9dcd6;
 }
 
 a {
@@ -120,7 +120,7 @@ p {
 }
 
 
-
+/* combined optimization management and marketing h2 */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2  {
     margin-bottom: 20px;
     font-size: 36px;
