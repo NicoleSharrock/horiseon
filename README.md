@@ -7,13 +7,15 @@ Showcasing Horiseons expertise in public relations.
 * HTML
 * CSS
 
-## Website 
+## Things I chaged for this assignment on my HTML file
+* added a title to the webpage 
+* added alt to my <img> to make accessable to the disable 
+* change <div> to <header>
+* added space for better viual 
+* added comment to my HTML and CSS pages
+* add footer 
 
-Made with ❤️️ by Horiseon
-
-# Deployable link 
-
-
+## Deployable link 
 
 ## screenshot 
 
