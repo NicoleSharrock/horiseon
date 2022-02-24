@@ -9,8 +9,8 @@ Showcasing Horiseons expertise in public relations.
 
 ## Things I chaged for this assignment on my HTML file
 * added a title to the webpage 
-* added alt to my <img> to make accessable to the disable 
-* change <div> to <header>
+* added alt to my < img > to make accessable to the disable 
+* change < div > to < header >
 * added space for better viual 
 * added comment to my HTML and CSS pages
 * add footer 
