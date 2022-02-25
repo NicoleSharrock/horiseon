@@ -15,6 +15,11 @@ Showcasing Horiseons expertise in public relations.
 * added comment to my HTML and CSS pages
 * add footer 
 
+
+## Things I chaged for this assignment on my CSS file
+* combined benefit-lead, benefit-brand, benefit-cost classes 
+* combined benefit-lead h3, benefit-brand h3, benefit-cost h3
+
 ## Deployable link 
 
 ## screenshot 
