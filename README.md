@@ -1,7 +1,8 @@
 # Horiseon
 
 ## Table Of Contents
-* [General info]
+* [General info](#general-info)
+* [Technologies](#technologies)
 
 ## Purpose 
 Showcasing Horiseons expertise in public relations.
