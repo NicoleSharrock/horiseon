@@ -7,7 +7,7 @@ Showcasing Horiseons expertise in public relations.
 * [General info](#story)
 * [Technologies](#built-with)
 * [Deployable link](#deployable-link) 
-* [Screenshot](screenshot)
+* [Screenshot](#screenshot)
 
 ## Story
 As a marketing agency I want a codebase that follows accessibility standars so that our own site is optimized for search engines.
