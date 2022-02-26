@@ -3,9 +3,14 @@
 ## Purpose 
 Showcasing Horiseons expertise in public relations.
 
+### Story
+As a marketing agency I want a codebase that follows accessibility standars so that our own site is optimized for search engines.
+
+
 ## Built with
 * HTML
 * CSS
+
 
 ## Things I chaged for this assignment on my HTML file
 * added a title to the webpage 
