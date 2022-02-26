@@ -12,8 +12,8 @@ Showcasing Horiseons expertise in public relations.
 * added alt to my < img > to make accessable to the disable 
 * change < div > to < header >
 * added space for better viual 
-* added comment to my HTML and CSS pages
-* add footer 
+* added comments for better navigation 
+* add < footer >
 
 
 ## Things I chaged for this assignment on my CSS file
