@@ -3,6 +3,7 @@
 ## Table Of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Deployable link](#deployable-link) 
 
 ## Purpose 
 Showcasing Horiseons expertise in public relations.
