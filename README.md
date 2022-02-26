@@ -26,8 +26,7 @@ Showcasing Horiseons expertise in public relations.
 * search-engine-optimization h2, online-reputation-management h2, social-media-marketing h2
 
 ## Deployable link 
-
-## GitHub URL 
+https://nicolesharrock.github.io/horiseon/
 
 ## screenshot 
 
