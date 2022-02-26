@@ -28,7 +28,6 @@ Showcasing Horiseons expertise in public relations.
 ## Deployable link 
 
 ## GitHub URL 
-https://github.com/NicoleSharrock/horiseon.git
 
 ## screenshot 
 
