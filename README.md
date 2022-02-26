@@ -1,21 +1,22 @@
 # Horiseon
 
-## Table Of Contents
-* [General info](#general-info)
-* [Technologies](#built-with)
-* [Deployable link](#deployable-link) 
-
 ## Purpose 
 Showcasing Horiseons expertise in public relations.
+
+## Table Of Contents
+* [General info](#story)
+* [Technologies](#built-with)
+* [Deployable link](#deployable-link) 
+* [Screenshot](screenshot)
 
 ## Story
 As a marketing agency I want a codebase that follows accessibility standars so that our own site is optimized for search engines.
 
 
 ## Built with
+* Visual Studio Code
 * HTML
 * CSS
-
 
 
 ## Deployable link 
