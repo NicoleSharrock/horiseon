@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Technologies](#built-with)
 * [Deployable link](#deployable-link) 
 
 ## Purpose 
